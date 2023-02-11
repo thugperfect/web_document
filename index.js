@@ -32,5 +32,5 @@ e.style.color="white"
 }
 
 function reload(){
-    window.location.reload();
+    window.location.reload(true);
 }
